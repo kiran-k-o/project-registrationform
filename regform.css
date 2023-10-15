@@ -1,0 +1,80 @@
+body{
+    display:flex;
+    justify-content: center;
+    padding-top: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aquamarine;
+}
+
+form{
+    width: 700px;
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    box-shadow: 7px 9px 20px rgb(44,44,44);
+    margin-bottom: 40%;
+}
+
+h1{
+    font-size: 20px;
+    border: 0px;
+    margin-bottom: 7px;
+
+}
+
+h3{
+    border:0%;
+    margin: 0%;
+    font-size: medium;
+    margin-bottom: 10px;
+
+}
+
+#top_sentence{
+    font-size: small;
+    border: 0px;
+    color: blueviolet;
+    margin: 0%;
+
+
+}
+
+.head{
+    width: 70%;
+
+}
+
+.input{
+    height: 30px;
+    width: 250px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+
+.input{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+#lastname{
+    margin-left: -2.5%;
+}
+
+.namelabel{
+    font-size: smaller;
+    color: cadetblue;
+    margin: 0px;
+
+}
+
+.namelabel{
+    display: flex;
+    justify-content: center;
+    gap: 160px;
+    margin-top: 10px;
+}
